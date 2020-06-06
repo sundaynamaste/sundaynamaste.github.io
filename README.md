@@ -4,4 +4,4 @@
 
 
 ## Go
-<a href="https://havebeard.com" target="_blank">havebeard.com</a>
+<a href="https://blog.sundaynamaste.com" target="_blank">https://blog.sundaynamaste.com</a>

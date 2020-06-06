@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
-  "name": "havebeard",
-  "description": "HaveBeard",
+  "name": "sundaynamaste",
+  "description": "sundaynamaste blog",
   "main": "",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",

@@ -1,13 +1,22 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+⌚바쁜 나의 하루는,
+때로는 짜릿하지만👨‍🎤!
+때로는 참 피곤하죠..😬
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+우리는
+요가, 명상, 채식, 환경보호를
+일상의 구체적인 문제와 연결하여
+건강한 선택을 제시하는 활동을 합니다.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+균형, 공생, 쉼에 대해 이야기하며,
+바쁜 도시의 일상에 에너지를 불어넣는!
+삶의 새로운 선택지가 되고자해요.
+
+
+Find, Enjoy your Peace🌴
+썬나섬으로 놀러오세요!

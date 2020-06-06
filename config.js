@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://havebeard.com',
+  url: 'https://blog.sundaynamaste.com',
   pathPrefix: '/',
-  title: 'HaveBeard',
+  title: 'sundaynamaste',
   subtitle: '',
   copyright: '© All rights reserved.',
-  disqusShortname: 'havebeard',
+  disqusShortname: '',
   postsPerPage: 5,
-  googleAnalyticsId: 'UA-88866231-1',
+  googleAnalyticsId: 'UA-88866231-2',
   useKatex: false,
   menu: [
     {
@@ -25,11 +25,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Byungju Jin',
+    name: 'SundayNamaste',
     photo: '/photo.jpg',
-    bio: '개발하고 술마시고 요가합니다',
+    bio: 'Find, enjoy your PEACE!',
     contacts: {
-      email: 'jinbju@gmail.com',
+      email: 'help@sundaynamaste.com',
       facebook: '',
       telegram: '',
       twitter: '',
@@ -37,12 +37,12 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: '',
-      instagram: '',
+      instagram: 'sunday_namaste',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'UCwnT8K5evNH9aTWVjdb8YAA',
       soundcloud: '',
     }
   }
