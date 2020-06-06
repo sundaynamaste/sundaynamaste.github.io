@@ -1,6 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
   branch: master
+  repo: byungjuJin/byungjujin.github.io
 
 media_folder: "static/media"
 public_folder: "/media"
