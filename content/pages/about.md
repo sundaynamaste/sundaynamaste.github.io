@@ -1,6 +1,7 @@
 ---
 title: "About me"
 template: "page"
+socialImage: "/media/long_sundaynamaste.jpg"
 ---
 
 ⌚바쁜 나의 하루는,
