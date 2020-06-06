@@ -16,7 +16,7 @@
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
     "test:watch": "jest --watch --config ./jest/jest-config.js"
   },
-  "repository": "https://https://github.com/byungjuJin/byungjujin.github.io",
+  "repository": "https://github.com/sundaynamaste/sundaynamaste.github.io",
   "author": "Byungju Jin <jinbju@gmail.com>",
   "license": "MIT",
   "keywords": [
