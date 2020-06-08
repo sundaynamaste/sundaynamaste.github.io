@@ -83,6 +83,7 @@ module.exports = {
                       }
                       frontmatter {
                         title
+                        author
                         date
                         template
                         draft

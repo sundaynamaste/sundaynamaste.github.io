@@ -17,6 +17,7 @@ const useLatestList = () => {
                 description
                 slug
                 title
+                author
               }
               fields {
                 slug
