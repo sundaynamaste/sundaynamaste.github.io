@@ -1,6 +1,7 @@
 ---
 template: post
 title: 썬나의 색 이야기
+author: 썬데이나마스떼
 slug: 썬나의 색 이야기
 draft: false
 date: 2020-06-07T12:28:47.856Z
