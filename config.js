@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://blog.sundaynamaste.com',
   pathPrefix: '/',
-  title: 'sundaynamaste',
-  subtitle: '',
+  title: '썬데이나마스떼 블로그',
+  subtitle: 'sundaynamaste blog',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 5,
