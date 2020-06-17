@@ -1,8 +1,8 @@
 ---
 template: post
-title: sundaynamaste.com dev stack
+title: sundaynamaste.com 개발 스택
 author: billy
-slug: sundaynamaste.com dev stack
+slug: sundaynamaste.com 개발 스택
 draft: false
 date: 2020-06-16T01:53:13.048Z
 description: sundaynamaste.com dev stack 개발 스택
