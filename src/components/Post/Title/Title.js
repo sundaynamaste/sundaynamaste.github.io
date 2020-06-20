@@ -5,7 +5,8 @@ import Meta from '../Meta';
 
 type Props = {
   title: string,
-  date: string
+  date: string,
+  author: string
 };
 
 const Title = ({ title, date, author }: Props) => (

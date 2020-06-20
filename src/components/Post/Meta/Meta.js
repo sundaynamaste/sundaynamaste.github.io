@@ -4,7 +4,8 @@ import moment from 'moment';
 import styles from './Meta.module.scss';
 
 type Props = {
-  date: string
+  date: string,
+  author: string
 };
 
 const Meta = ({ date, author }: Props) => (
