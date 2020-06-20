@@ -17,11 +17,11 @@ tags:
 >
 > web server : nginx
 >
-> Frontend : Angular 9.x
+> Frontend : Angular 9
 >
 > backend : nodeJS (with Typescript)
 >
-> DB : MySql 8.x
+> DB : MySql 8
 >
 > mail : postfix, dovecot
 >
