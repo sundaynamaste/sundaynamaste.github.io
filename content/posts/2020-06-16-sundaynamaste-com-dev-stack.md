@@ -11,7 +11,7 @@ tags:
   - dev
   - stack
 ---
-# sundaynamaste.com의 개발스택 
+# sundaynamaste.com의 개발스택
 
 > 서버 : www.iwinv.co.kr 클라우드 가상 서버 OS : ubuntu 16.04(64bit)
 >
@@ -31,12 +31,11 @@ tags:
 >
 > 분석 : google analytics
 
+## 서버 : www.iwinv.co.kr 클라우드 가상 서버
 
-
-## 서버 : www.iwinv.co.kr 클라우드 가상 서버 
 처음에는 돈버는 거 없이 서비스를 시작하는 입장이어서 가능한 저렴한 것을 찾아야 했습니다.  
 
-유명하기로는 aws가 있겠으나 당시에는 한국에는 lightsail도 런칭 안했고 
+유명하기로는 aws가 있겠으나 서비스를 처음 만들 당시에는 한국에는 lightsail도 런칭 안했고 
 
 회사에서 써 본 경험으로는 오류가 발생해서 문의 티켓 발행해도 걍 점검 있었다 정도의 안내만 받았었습니다.
 
@@ -58,9 +57,7 @@ AWS의 장점이 가격이 비싸더라도 고성능의 다양한 기능을 제�
 
 신규로 고르시는 분들은 <https://blog.lael.be/post/44> 에서 각종 클라우드 서버들을 자세하게 비교/추천해 주고 있으므로 참고하면 좋을 것 같습니다.
 
-
-
-## OS : ubuntu 
+## OS : ubuntu
 
 ![ubuntu mark](/media/ubuntu.png "ubuntu")
 
@@ -72,8 +69,6 @@ stackoverflow 등등 해서 예제로 나온 것들이 ubuntu기반이 많길래
 
 잘 모르면 유명한것이 낫겠죠?
 
-
-
 ## web server : nginx
 
 ![nginx mark](/media/nginx.png "nginx")
@@ -84,9 +79,7 @@ stackoverflow 등등 해서 예제로 나온 것들이 ubuntu기반이 많길래
 
 써볼 수록 Apache 보다는 nginx가 나은 듯 하니, 특별한 이유가 없다면 nginx를 선택하는 것이 좋겠습니다.
 
-
-
-## FrontEnd : Angular 
+## FrontEnd : Angular
 
 ![Angular mark](/media/angular.png "angular")
 
@@ -104,8 +97,6 @@ SPA로 Frontend를 구축한다고 하면 React, Angular, Vue 중 골라야 하�
 
 Angular는 Google이라는 대기업에서 만들어서 키워가다보니 개발자들의 반감을 사서 평가절하 되는 것 같습니다. 다음에는 낮은 러닝커브로 유명한 vue도 써보고 싶네요.
 
-
-
 ## BackEnd : Node.js
 
 ![node mark](/media/node.png "node")
@@ -119,8 +110,6 @@ Angular를 쓰며 Typescript가 편하였기 때문에 node에도 typescript를 
 실제로 빠른 개발이 가능한 것 같아 마음에 듭니다. 
 
 아 framework는 역시 예제가 많은 express 입니다.
-
-
 
 ## DB : MySql 8
 
@@ -136,15 +125,11 @@ MySql 5.x 와 8 버전에는 약간 차이가 있으니 가능하면 최신인 8
 
 기능상의 문제로 중간에 업그레이드 하였습니다. 
 
-
-
 ## mail : postfix, dovecot
 
 검색하니 발신은 postfix, 수신은 dovecot 을 사용하는 것이 정석 처럼 되어 있어
 
 별 고민없이 셋팅 하였습니다.
-
-
 
 ## ssl : Let's Encrypt
 
@@ -154,9 +139,7 @@ MySql 5.x 와 8 버전에는 약간 차이가 있으니 가능하면 최신인 8
 
 HTTPS를 적용하지 않으셨다면 쉬우니 얼른 하시길
 
-
-
-## version control : Git, GitHub 
+## version control : Git, GitHub
 
 ![git logo](/media/git.png "git")
 
@@ -166,9 +149,7 @@ GitHub, GitLab, gitbucket 등의 git 호스팅 서비스가 있는데 privacy저
 
 큰 차이는 없겠지만 좀 더 눈에 익은 UI를 사용하기 위해 gitlab에서 github로 변경하였습니다.
 
-
-
-## 분석 : google analytics 
+## 분석 : google analytics
 
 ![google analytics logo](/media/ga.png "google analytics")
 
@@ -180,9 +161,7 @@ GitHub, GitLab, gitbucket 등의 git 호스팅 서비스가 있는데 privacy저
 
 추후에 docker + 배포 자동화 를 해보려고 합니다.
 
-
-
-## 개발스택 
+## 개발스택
 
 최신 기술들은 셋팅도 점점 쉬워지고, 점점 1인 개발에 도움을 주는 것 같습니다.
 
