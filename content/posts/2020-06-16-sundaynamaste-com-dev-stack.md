@@ -59,7 +59,7 @@ AWS의 장점이 가격이 비싸더라도 고성능의 다양한 기능을 제�
 
 ## OS : ubuntu
 
-![ubuntu mark](/media/ubuntu.png "ubuntu")
+![ubuntu mark](/media/ubuntu.png)
 
 centos나 Fedora 등등도 고를 수 있던데
 
