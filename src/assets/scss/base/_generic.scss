@@ -125,46 +125,19 @@ p {
 }
 
 blockquote {
-  border-left: 3px solid $color-primary;
-  background-color: $soft-orange;
-  color: #1a1a1a;
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 1.25em;
-  font-style: italic;
-  line-height: 1.8em;
-  margin: 1.1em -4em;
-  padding: 1em 2em;
-  position: relative;
-  transition: .2s border ease-in-out;
-  z-index: 0;
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  line-height: 18pt;
+  text-align: left;
   &:before {
-    content: "";
-    position: absolute;
-    top: 50%;
-    left: -4px;
-    height: 2em;
-    background-color: $brown-orange;
-    width: 5px;
-    margin-top: -1em;
-  }
-  &:after {
-    content: "\f35f";
-    position: absolute;
-    top: 50%;
-    left: -0.5em;
-    color: $color-base;
-    font-family: "Ionicons";
-    font-style: normal;
-    line-height: 1em;
-    text-align: center;
-    text-indent: -2px;
-    width: 1em;
-    margin-top: -0.5em;
-    transition: .2s all ease-in-out, .4s transform ease-in-out;
-  }
-
-  &:active:after {
-    transform: rotateY(360deg);
+    color: #ccc;
+    content: open-quote;
+    font-size: 2em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
   }
 }
 
