@@ -1,9 +1,9 @@
 ---
+draft: false
 template: post
-title: sundaynamaste.com 개발 스택
 author: billy
 slug: sundaynamaste.com 개발 스택
-draft: false
+title: sundaynamaste.com 개발 스택
 date: 2020-06-16T01:53:13.048Z
 description: sundaynamaste.com dev stack 개발 스택
 category: 개발
@@ -71,7 +71,7 @@ stackoverflow 등등 해서 예제로 나온 것들이 ubuntu기반이 많길래
 
 ## web server : nginx
 
-![nginx mark](/media/nginx.png "nginx")
+![nginx mark](/media/nginx.png)
 
 회사에서는 Apache만 써 봤는데 Apache보다 nginx가 더 빠르다고 하고 점유율이라던가 여러가지로 문제될 것이 없기 때문에 nginx를 택했습니다.  
 
@@ -81,7 +81,7 @@ stackoverflow 등등 해서 예제로 나온 것들이 ubuntu기반이 많길래
 
 ## FrontEnd : Angular
 
-![Angular mark](/media/angular.png "angular")
+![Angular mark](/media/angular.png)
 
 SPA로 Frontend를 구축한다고 하면 React, Angular, Vue 중 골라야 하는 건데 이에 대한 의견은 인터넷에 너무 너무 너무 많습니다.
 
@@ -99,7 +99,7 @@ Angular는 Google이라는 대기업에서 만들어서 키워가다보니 개�
 
 ## BackEnd : Node.js
 
-![node mark](/media/node.png "node")
+![node mark](/media/node.png)
 
 많은 한국 회사들이 그렇듯 저도 java를 주로 써왔습니다. 
 
@@ -113,7 +113,7 @@ Angular를 쓰며 Typescript가 편하였기 때문에 node에도 typescript를 
 
 ## DB : MySql 8
 
-![MySql mark](/media/mysql.png "MySql")
+![MySql mark](/media/mysql.png)
 
 예전에 유행했던 MEAN (MongoDB, Express, Angular, Node)도 있고 MongoDB를 쓰는 것도 자연스러울 것 같은데
 
@@ -133,7 +133,7 @@ MySql 5.x 와 8 버전에는 약간 차이가 있으니 가능하면 최신인 8
 
 ## ssl : Let's Encrypt
 
-![LetsEncrypt logo](/media/letsencrypt.png "LetsEncrypt")
+![LetsEncrypt logo](/media/letsencrypt.png)
 
 이것도 검색하니 무료의 정석이어서...  
 
@@ -141,7 +141,7 @@ HTTPS를 적용하지 않으셨다면 쉬우니 얼른 하시길
 
 ## version control : Git, GitHub
 
-![git logo](/media/git.png "git")
+![git logo](/media/git.png)
 
 이제는 git 으로 모두 통일되어 버전관리에 한해서는 다른 것을 고려할 이유가 없는 것 같습니다.
 
@@ -151,7 +151,7 @@ GitHub, GitLab, gitbucket 등의 git 호스팅 서비스가 있는데 privacy저
 
 ## 분석 : google analytics
 
-![google analytics logo](/media/ga.png "google analytics")
+![google analytics logo](/media/ga.png)
 
 이것도 무료로 쓰려면 당연히 고르는 것 아닌가요? ㅎㅎ
 
