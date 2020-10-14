@@ -20,4 +20,7 @@ socialImage: /media/long_sundaynamaste.jpg
 즐겁고 유익한 이야기로 찾아갈게요.\
 곧 또 만나요!
 
-Find, Enjoy your PEACE😎
+Find, Enjoy your PEACE😎\
+\
+[www.sundaynamaste.com](www.sundaynamaste.com)\
+[@sunday_namaste](https://www.instagram.com/sunday_namaste/)
