@@ -1,9 +1,10 @@
 ---
-title: "Contact me"
-template: "page"
-socialImage: "/media/long_sundaynamaste.jpg"
+template: page
+title: Contact
+socialImage: /media/long_sundaynamaste.jpg
 ---
+상품/서비스: [www.sundaynamaste.com](www.sundaynamaste.com)
 
-www.sundaynamaste.com
-
-www.instagram.com/sunday_namaste
+SNS: [@sunday_namste](www.instagram.com/sunday_namaste)\
+\
+제휴문의: boyon@sundaynamaste.com
