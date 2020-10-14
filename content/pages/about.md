@@ -1,6 +1,6 @@
 ---
 template: page
-title: About me
+title: About
 socialImage: /media/long_sundaynamaste.jpg
 ---
 사람 그리고 건강한 라이프스타일에 대한 애정과 열정으로,\
