@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://blog.sundaynamaste.com',
+  url: 'https://www.sundaynamaste.com',
   pathPrefix: '/',
   title: '썬데이나마스떼 블로그',
   subtitle: 'sundaynamaste blog',
@@ -16,11 +16,11 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About Us',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact Us',
       path: '/pages/contacts'
     }
   ],
@@ -29,7 +29,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Find, enjoy your PEACE!',
     contacts: {
-      email: 'help@sundaynamaste.com',
+      email: '',
       facebook: '',
       telegram: '',
       twitter: '',
