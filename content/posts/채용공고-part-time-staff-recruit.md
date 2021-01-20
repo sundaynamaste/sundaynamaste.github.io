@@ -1,7 +1,7 @@
 ---
 template: post
 title: "[채용공고]PART-TIME STAFF RECRUIT"
-author: 야자수
+author: 썬데이나마스떼
 date: 2020-10-14T06:05:14.116Z
 description: 채용공고
 category: THE TEAM
