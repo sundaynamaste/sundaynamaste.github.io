@@ -38,7 +38,7 @@
     "disqus"
   ],
   "dependencies": {
-qj    "@babel/plugin-transform-react-pure-annotations": "^7.12.1",
+    "@babel/plugin-transform-react-pure-annotations": "^7.12.1",
     "@isamrish/gatsby-plugin-google-adsense": "^1.2.0",
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
