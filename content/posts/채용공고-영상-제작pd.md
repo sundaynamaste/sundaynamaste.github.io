@@ -1,6 +1,6 @@
 ---
 template: post
-title: "[채용공고] 영상 제작PD"
+title: "[채용공고] 교육 콘텐츠 촬영/편집PD"
 author: 썬데이나마스떼
 date: 2021-05-24T09:30:28.586Z
 description: "- 21년도 상시 채용공고: 촬영/편집PD(파트타임, 인턴, 신입, 경력)"
