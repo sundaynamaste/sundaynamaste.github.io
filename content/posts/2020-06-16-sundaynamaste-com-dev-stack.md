@@ -1,9 +1,9 @@
 ---
 draft: false
 template: post
+title: sundaynamaste.com 개발 스택
 author: BILLY
 slug: sundaynamaste.com 개발 스택
-title: sundaynamaste.com 개발 스택
 date: 2020-06-16T01:53:13.048Z
 description: sundaynamaste.com dev stack 개발 스택
 category: 개발
@@ -13,11 +13,11 @@ tags:
 ---
 # sundaynamaste.com 개발스택
 
-> 서버 : www.iwinv.co.kr 클라우드 가상 서버 OS : ubuntu 16.04(64bit)
+> 서버 : AWS, iwinv 클라우드 가상 서버 OS : ubuntu 16.04(64bit)
 >
 > web server : nginx
 >
-> Frontend : Angular 9
+> Frontend : Angular 2+ 
 >
 > backend : nodeJS (with Typescript)
 >
