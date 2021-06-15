@@ -1,7 +1,7 @@
 ---
 draft: false
 template: post
-author: billy
+author: BILLY
 slug: sundaynamaste.com 개발 스택
 title: sundaynamaste.com 개발 스택
 date: 2020-06-16T01:53:13.048Z
@@ -11,7 +11,7 @@ tags:
   - dev
   - stack
 ---
-# sundaynamaste.com의 개발스택
+# sundaynamaste.com 개발스택
 
 > 서버 : www.iwinv.co.kr 클라우드 가상 서버 OS : ubuntu 16.04(64bit)
 >
