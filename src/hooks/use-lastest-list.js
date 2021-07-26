@@ -29,7 +29,7 @@ const useLatestList = () => {
     `
   );
 
-  return allMarkdownRemark;
+  return allMarkdownRemark || {};
 };
 
 export default useLatestList;
