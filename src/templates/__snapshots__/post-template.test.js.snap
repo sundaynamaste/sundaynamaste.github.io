@@ -15,27 +15,7 @@ exports[`PostTemplate renders correctly 1`] = `
     </a>
     <div
       className="post__title"
-    >
-      <div
-        className="title"
-      >
-        <h1
-          className="title__title"
-        >
-          test
-        </h1>
-        <div
-          className="meta"
-        >
-          <p
-            className="meta__date"
-          >
-            2016-09-01
-             | 
-          </p>
-        </div>
-      </div>
-    </div>
+    />
     <div
       className="post__content"
     >
