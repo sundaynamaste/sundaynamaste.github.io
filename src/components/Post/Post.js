@@ -12,14 +12,14 @@ type Props = {
     post: Node
 };
 
-const Post = ({post}: Props) => {
-    const {html} = post;
-    const {tagSlugs, slug} = post.fields;
-    const {
-        tags, title, date, author
-    } = post.frontmatter;
+const Post = ({ post }: Props) => {
+  const { html } = post;
+  const { tagSlugs, slug } = post.fields;
+  const {
+    tags, title, date, author
+  } = post.frontmatter;
 
-    return (
+  return (
         <div className={styles['post']}>
             <Link className={styles['post__home-button']} to="/">목록</Link>
 
@@ -44,7 +44,7 @@ const Post = ({post}: Props) => {
                 <Comments postSlug={slug} postTitle={title}/>
             </div>
         </div>
-    );
+  );
 };
 
 export default Post;
