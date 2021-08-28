@@ -1,7 +1,7 @@
 ---
 template: page
 title: About
-socialImage: /media/long_sundaynamaste.jpg
+socialImage: /media/long_sundaynamaste.png
 ---
 사람 그리고 건강한 라이프스타일에 대한 애정과 열정으로,\
 건강한 습관을 나누기 위한 고민과 도전을 이어갑니다.
