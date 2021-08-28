@@ -1,7 +1,6 @@
 ---
 template: page
 title: Contact
-socialImage: /media/long_sundaynamaste.png
 ---
 상품/서비스: [www.sundaynamaste.com](https://www.sundaynamaste.com)
 
