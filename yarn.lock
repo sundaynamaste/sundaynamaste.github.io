@@ -9066,7 +9066,7 @@ gatsby-plugin-manifest@^3.10.0:
     semver "^7.3.5"
     sharp "^0.28.3"
 
-gatsby-plugin-netlify-cms@^5.12.0:
+gatsby-plugin-netlify-cms@^5.6.0:
   version "5.12.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-5.12.0.tgz#2a91e365e9b8959cb794510f7c9db1687d6f5a82"
   integrity sha512-a7X30wKic4zfP7VNvJeqtu3A8fXdLXfJ+lC3tDsDmfpuqS3UOdtINCcOhxn0oNYAtOgHig2Iv/gDYcH/mcN0ZQ==
@@ -9512,7 +9512,7 @@ gatsby-worker@^0.3.0:
   dependencies:
     "@babel/core" "^7.14.8"
 
-gatsby@^3.12.1:
+gatsby@^3.6.0:
   version "3.12.1"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-3.12.1.tgz#89899c2966df6a51228f39a099f68aab2baabc1a"
   integrity sha512-Z2lh2EB8Oh68JHImnlHpqgivAKQ81CYNA9faMgQM/okvF0n5Zrb8/1cKb1VuEwwbjhwZjLAlCQAIZ79vs7IHDg==
