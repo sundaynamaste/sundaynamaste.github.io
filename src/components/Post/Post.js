@@ -24,7 +24,7 @@ const Post = ({post}: Props) => {
             <Link className={styles['post__home-button']} to="/">목록</Link>
 
             <div className={styles['post__title']}>
-                {author && author.length > 0 && <Title title={title} date={date} author={author}/>}
+                {(typeof author !== 'undefined' && author !== '') && <Title title={title} date={date} author={author}/>}
             </div>
 
             <div className={styles['post__content']}>
