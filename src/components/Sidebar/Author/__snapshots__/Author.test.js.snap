@@ -30,5 +30,10 @@ exports[`Author renders correctly 1`] = `
   >
     test
   </p>
+  <a
+    href="https://www.sundaynamaste.com"
+  >
+    www.sundaynamaste.com
+  </a>
 </div>
 `;

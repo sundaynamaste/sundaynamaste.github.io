@@ -11,19 +11,17 @@ exports[`PostTemplate renders correctly 1`] = `
       className="post__home-button"
       href="/"
     >
-      All Articles
+      목록
     </a>
+    <div
+      className="post__title"
+    />
     <div
       className="post__content"
     >
       <div
         className="content"
       >
-        <h1
-          className="content__title"
-        >
-          test
-        </h1>
         <div
           className="content__body"
           dangerouslySetInnerHTML={
@@ -33,68 +31,55 @@ exports[`PostTemplate renders correctly 1`] = `
           }
         />
       </div>
+      <div
+        className="post__tags"
+      >
+        <div
+          className="tags"
+        >
+          <ul
+            className="tags__list"
+          >
+            <li
+              className="tags__list-item"
+            >
+              <a
+                className="tags__list-item-link"
+                href="/test_0"
+              >
+                test_0
+              </a>
+            </li>
+            <li
+              className="tags__list-item"
+            >
+              <a
+                className="tags__list-item-link"
+                href="/test_1"
+              >
+                test_1
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
     <div
       className="post__footer"
     >
-      <div
-        className="meta"
+      <a
+        className="post__button"
+        href="/"
       >
-        <p
-          className="meta__date"
-        >
-          Published 
-          1 Sep 2016
-        </p>
-      </div>
-      <div
-        className="tags"
+        목록
+      </a>
+      <a
+        href="https://www.sundaynamaste.com"
+        target="_blank"
       >
-        <ul
-          className="tags__list"
-        >
-          <li
-            className="tags__list-item"
-          >
-            <a
-              className="tags__list-item-link"
-              href="/test_0"
-            >
-              test_0
-            </a>
-          </li>
-          <li
-            className="tags__list-item"
-          >
-            <a
-              className="tags__list-item-link"
-              href="/test_1"
-            >
-              test_1
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div
-        className="author"
-      >
-        <p
-          className="author__bio"
-        >
-          Test bio
-          <a
-            className="author__bio-twitter"
-            href="https://www.twitter.com/#"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            <strong>
-              Test name
-            </strong>
-             on Twitter
-          </a>
-        </p>
-      </div>
+        sundaynamaste
+      </a>
+       All rights reserved.
     </div>
     <div
       className="post__comments"

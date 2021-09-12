@@ -1,7 +1,7 @@
 ---
 template: page
 title: About
-socialImage: /media/long_sundaynamaste.jpg
+socialImage: https://blog.sundaynamaste.com/media/long_sundaynamaste.png
 ---
 사람 그리고 건강한 라이프스타일에 대한 애정과 열정으로,\
 건강한 습관을 나누기 위한 고민과 도전을 이어갑니다.
@@ -22,5 +22,5 @@ socialImage: /media/long_sundaynamaste.jpg
 
 Find, Enjoy your PEACE😎\
 \
-[www.sundaynamaste.com](www.sundaynamaste.com)\
+[www.sundaynamaste.com](https://www.sundaynamaste.com)\
 [@sunday_namaste](https://www.instagram.com/sunday_namaste/)

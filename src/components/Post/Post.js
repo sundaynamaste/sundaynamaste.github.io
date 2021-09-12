@@ -9,7 +9,7 @@ import styles from './Post.module.scss';
 import type { Node } from '../../types';
 
 type Props = {
-  post: Node
+    post: Node
 };
 
 const Post = ({ post }: Props) => {
@@ -20,30 +20,30 @@ const Post = ({ post }: Props) => {
   } = post.frontmatter;
 
   return (
-    <div className={styles['post']}>
-      <Link className={styles['post__home-button']} to="/">목록</Link>
+        <div className={styles['post']}>
+            <Link className={styles['post__home-button']} to="/">목록</Link>
 
-      <div className={styles['post__title']}>
-        <Title title={title} date={date} author={author}/>
-      </div>
+            <div className={styles['post__title']}>
+                {(typeof author !== 'undefined' && author !== '') && <Title title={title} date={date} author={author}/>}
+            </div>
 
-      <div className={styles['post__content']}>
-        <Content body={html}/>
-        <div className={styles['post__tags']}>
-          {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs}/>}
+            <div className={styles['post__content']}>
+                <Content body={html}/>
+                <div className={styles['post__tags']}>
+                    {tags && tagSlugs && <Tags tags={tags} tagSlugs={tagSlugs}/>}
+                </div>
+            </div>
+
+            <div className={styles['post__footer']}>
+                <Link className={styles['post__button']} to="/">목록</Link>
+                <a href={'https://www.sundaynamaste.com'} target="_blank">sundaynamaste</a> All rights
+                reserved.
+            </div>
+
+            <div className={styles['post__comments']}>
+                <Comments postSlug={slug} postTitle={title}/>
+            </div>
         </div>
-      </div>
-
-      <div className={styles['post__footer']}>
-        <Link className={styles['post__button']} to="/">목록</Link>
-        <a href={'https://www.sundaynamaste.com'} target="_blank">sundaynamaste</a> All rights
-        reserved.
-      </div>
-
-      <div className={styles['post__comments']}>
-        <Comments postSlug={slug} postTitle={title}/>
-      </div>
-    </div>
   );
 };
 
